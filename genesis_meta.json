@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "created_utc": "2026-05-28T13:48:25.809353+00:00",
+  "curve": "Ed25519",
+  "purpose": "ALD founder/genesis identity. Used to sign all official ALD announcements.",
+  "operator": "Rabbit-Marketing O\u00dc",
+  "operator_address": "Tornim\u00e4e tn 5, 10145 Tallinn, Estonia",
+  "domain": "aladin-crypto.com",
+  "address": "ald1jrrvknsy0r8kllg280elfzqarfk8lerr",
+  "public_key_hex": "6d7492d9046a466dcfb920285109e731096d46d7be702bb311b66f807f6b96a8"
+}

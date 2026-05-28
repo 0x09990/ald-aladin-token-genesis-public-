@@ -1,0 +1,7 @@
+ALD Genesis Public Key (sicher zu teilen)
+Created: 2026-05-28T13:48:25.809353+00:00
+Curve: Ed25519
+Format: hex (32 bytes)
+---BEGIN-PUBLIC-KEY---
+6d7492d9046a466dcfb920285109e731096d46d7be702bb311b66f807f6b96a8
+---END-PUBLIC-KEY---
