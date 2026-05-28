@@ -1,0 +1,53 @@
+Creative Commons CC0 1.0 Universal (Public Domain Dedication)
+=============================================================
+
+The person who associated a work with this deed has dedicated the work to
+the public domain by waiving all of his or her rights to the work worldwide
+under copyright law, including all related and neighboring rights, to the
+extent allowed by law.
+
+You can copy, modify, distribute and perform the work, even for commercial
+purposes, all without asking permission.
+
+Full legal text: https://creativecommons.org/publicdomain/zero/1.0/legalcode
+
+---
+
+This dedication applies to ALL FILES in this repository:
+  - MANIFEST.md / MANIFEST.sig / manifest_envelope.json (and v0 variants)
+  - CHANGELOG.md / PUBLIC_ANCHOR.md / ANCHOR_INSTRUCTIONS.md
+  - README.md / README_DE.md
+  - verify_manifest.py
+  - genesis_public_key.txt / genesis_address.txt
+  - verify_qr.svg / verify_qr.txt
+  - .gitignore
+
+The purpose of choosing CC0 is to make verification, mirroring, and
+redistribution as friction-free as possible. Anyone, anywhere, may copy,
+verify, archive, fork, or republish these files without asking permission.
+
+============================================================================
+IMPORTANT — what CC0 does NOT cover
+============================================================================
+
+1. The Genesis Private Key (`GENESIS_PRIVATE_KEY.SECRET`)
+   This file is NOT in this repository and is NOT released under CC0.
+   It remains the exclusive property of the ALD ALADIN TOKEN founders.
+
+2. The brand name "ALD ALADIN TOKEN" and the ALD logo
+   These are protected under German and EU trademark / unfair competition
+   law (UWG / EUIPO). You may NOT use them to identify your own project,
+   issue your own signed announcements, or impersonate the ALD founders.
+   Doing so is unlawful regardless of the CC0 dedication on file contents.
+
+3. The right to sign as "ALD ALADIN TOKEN"
+   Only the holder of the Genesis Private Key can produce signatures that
+   verify against the Genesis Public Key shown in this repository. Anyone
+   who claims to speak for ALD ALADIN TOKEN without such a valid signature
+   is not authentic — regardless of what they copy from this repo.
+
+============================================================================
+
+In short: copy and verify freely. Do not pretend to be ALD ALADIN TOKEN.
+
+— Rabbit-Marketing OÜ, Tallinn, 2026-05-28
